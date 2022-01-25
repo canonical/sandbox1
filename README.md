@@ -2,7 +2,7 @@
 
 ## Description
 
-TODO: Describe your charm in a few paragraphs of Markdown
+This is not a real charm but an experiement to test integration between JIRA and GitHub
 
 ## Usage
 
