@@ -2,7 +2,7 @@
 
 ## Description
 
-TODO: Describe your charm in a few paragraphs of Markdown
+Today's trivial change
 
 ## Usage
 
